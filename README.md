@@ -19,5 +19,5 @@
     
 ## Authors
 
-- [@diabeal](https://github.com/daibeal)
+- [@daibeal](https://github.com/daibeal)
 
